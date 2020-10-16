@@ -4,6 +4,7 @@
             - Arduino Mega R3 <br/>
             - Arduino Mega R3 Wifi <br/>
             - Arduino Nano (Old Board)<br/>
+            - Arduino Nano (New Board)
             
           
 DEVICES<br/>
