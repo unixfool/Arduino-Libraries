@@ -29,4 +29,5 @@ DEVICES<br/>
 - Keypad Module<br/>
 - 6v DC Motor<br/>
 - Led<br/>
-- 5 Pin Led RGB
+- 5 Pin Led RGB<br/>
+- Buzzer (Passive and Active)
