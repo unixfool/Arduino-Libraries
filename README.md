@@ -1,8 +1,8 @@
-#Arduino
+<strong>#Arduino</strong>
 - These libraries are very important to program in Arduino since they facilitate communication with the most common devices.
 - Test in: <br/>
-            - Arduino Mega R3 <br/>
-            - Arduino Mega R3 Wifi <br/>
+            - Arduino Mega R3 2560 <br/>
+            - Arduino Mega R3 ATmega2560 <br/>
             - Arduino Nano (Old Board)<br/>
             - Arduino Nano (New Board)
             
